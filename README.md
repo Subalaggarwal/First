@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Subalaggarwal/Subal-Aggarwal/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Subal Aggarwal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"calt="coding"width="400"src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
